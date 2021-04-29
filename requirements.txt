@@ -1,0 +1,43 @@
+appdirs==1.4.4
+asgiref @ file:///home/longdt/.cache/pypoetry/artifacts/e5/46/15/2189c1ac010f2a59bb68d74d8e7c1a948235462e517cf1cb79623a38d7/asgiref-3.3.4-py3-none-any.whl
+CacheControl==0.12.6
+cachy==0.3.0
+certifi==2020.12.5
+cffi==1.14.5
+chardet==4.0.0
+cleo==0.8.1
+clikit==0.6.2
+crashtest==0.3.1
+cryptography==3.4.7
+distlib==0.3.1
+Django @ file:///home/longdt/.cache/pypoetry/artifacts/c8/aa/df/b97e2added197738245b57cefc81a0a310ebcc95d754c8ce292dd8969f/Django-3.2-py3-none-any.whl
+djangorestframework @ file:///home/longdt/.cache/pypoetry/artifacts/e2/18/85/ebfe20249d46d94e519853cb4ac80eb0cdeffdb02e8f870abdccc0bf73/djangorestframework-3.12.4-py3-none-any.whl
+filelock==3.0.12
+html5lib==1.1
+idna==2.10
+jeepney==0.6.0
+keyring==21.8.0
+lockfile==0.12.2
+msgpack==1.0.2
+packaging==20.9
+pastel==0.2.1
+pexpect==4.8.0
+pkginfo==1.7.0
+poetry==1.1.6
+poetry-core==1.0.3
+ptyprocess==0.7.0
+pycparser==2.20
+pylev==1.3.0
+PyMySQL==1.0.2
+pyparsing==2.4.7
+pytz @ file:///home/longdt/.cache/pypoetry/artifacts/19/50/c9/f8bffb0360052b3c85b912bc4172f824bc2571e24002806fb3a428302e/pytz-2021.1-py2.py3-none-any.whl
+requests==2.25.1
+requests-toolbelt==0.9.1
+SecretStorage==3.3.1
+shellingham==1.4.0
+six==1.15.0
+sqlparse @ file:///home/longdt/.cache/pypoetry/artifacts/f6/9e/b8/b33d7ab31a08d0f94b260c990d807e12f38e0ffb105a4c2ca9ad9a6434/sqlparse-0.4.1-py3-none-any.whl
+tomlkit==0.7.0
+urllib3==1.26.4
+virtualenv==20.4.4
+webencodings==0.5.1
