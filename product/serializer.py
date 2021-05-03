@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from .models import Categories,Products
+from .models import Categories, Products
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -10,6 +10,8 @@ class CategorySerializer(serializers.ModelSerializer):
 
 
 class ProductSerializer(serializers.ModelSerializer):
+    products = serializers.StringRelatedField(many=True)
+
     class Meta:
         model = Products
         fields = '__all__'

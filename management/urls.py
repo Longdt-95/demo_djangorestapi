@@ -16,7 +16,6 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-from product.views import add_cate, get_all
 
 urlpatterns = [
     path('', include('product.urls')),
